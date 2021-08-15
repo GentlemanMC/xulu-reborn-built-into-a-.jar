@@ -62,8 +62,8 @@ public class ModuleManager {
         modules.add(new Sharp32kDetect());
         modules.add(new StrengthDetect());
         modules.add(new Surround());
-        modules.add(new PhobosCa[]);
-        modules.add(new AnvilAura())
+        modules.add(new PhobosCa());
+        modules.add(new AnvilAura()):
         //Misc
         modules.add(new Announcer());
         modules.add(new AntiDeathScreen());
